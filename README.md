@@ -1,4 +1,4 @@
-# FDF [[Sujet](https://github.com/tvarnier/42/blob/master/graphic/fdf/subject.pdf)]
+# FDF [[Sujet](https://github.com/tvarnier/fdf/blob/master/subject.pdf)]
 
 <br>
 
@@ -12,7 +12,7 @@ L’occasion de nous initier à la programmation dite “evenementielle”.
 <br>
 
 <div>
-  <img src="https://github.com/tvarnier/42/blob/master/graphic/fdf/img/france.png" align="middle">
+  <img src="https://github.com/tvarnier/fdf/blob/master/img/france.png" align="middle">
 </div>
 
 <br>
@@ -42,13 +42,13 @@ Une fois lancer vous aurez accès aux événements suivants:
 <br>
 
 <div>
-  <img src="https://github.com/tvarnier/42/blob/master/graphic/fdf/img/pylone.png">
+  <img src="https://github.com/tvarnier/fdf/blob/master/img/pylone.png">
   <p align="center" font-size="x-small"><i>Map "polynome"</i></p>
 </div>
 
 <br>
 
 <div>
-  <img src="https://github.com/tvarnier/42/blob/master/graphic/fdf/img/pylone_filled.png">
+  <img src="https://github.com/tvarnier/fdf/blob/master/img/pylone_filled.png">
   <p align="center" font-size="x-small"><i>Map "polynome" w/ le remplissage des faces</i></p>
 </div>
